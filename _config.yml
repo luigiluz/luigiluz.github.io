@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Luigi Luz
+title:            Luigi Luz's blog
 tagline:          'Mostly about technology'
 description:      'A blog about technology related topics (mostly about embedded systems and artificial intelligence applications).'
 url:              /luigiluz.github.io/
