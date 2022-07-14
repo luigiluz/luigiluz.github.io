@@ -15,7 +15,7 @@ On my free time I enjoy watching movies (a fan of Star Wars, if you couldn't tel
 
 My motivation on creating this blog was first because during my internship I was part of an open source project, what made me familiar with the open source community and I still wanna contribute with it in some way (as sharing some projects and its source code to make it reproducible) and also to improve my technical writing and learning skills.
 
-If you guys want to contact me, I'll leave my social networks down below. Feel free to contact me in any of them.
+I can you want to talk to me about one of these topics or something else, my social networks are listed down below.
 
 * [Linkedin](https://www.linkedin.com/in/luigi-luz/)
 * [Twitter](https://twitter.com/luigiluz98)
