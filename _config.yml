@@ -25,4 +25,6 @@ github:
   repo:           https://github.com/luigiluz
 
 collections:
-  - projects
+  projects:
+      output: true
+      permalink: /:collection/:title
