@@ -1,30 +1,22 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hello there! - KENOBI, Obi-Wan (A long time ago).
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+First of all, thank you for wanting to know a little bit more about the author of this blog, that is, me.
 
-There are currently two themes built on Poole:
+My name is Luigi Luz. I'm a brazilian electronics engineer and current pursing a Master's degree in computer science. I currently work as a Software Engineer for CESAR at Recife, Pernambuco. Since graduation I've been mostly working with embedded systems, IoT, signal processing and machine learning and these are the fields that I'm more familiared with. I'm entering the world of cybersecurity during my Master's program and I'm really enjoying it as well, it is a very interesting topic and it also makes possible to combine all the others previously mentioned topics.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+On my free time I enjoy watching movies (a fan of Star Wars, if you couldn't tell by now), playing video-games, going out with friends to have dinner (also a huge fan of food as well, mostly hamburgers and coxinha, a brazilian snack and one of the world's greatest snacks) and I'm currently trying to learn how to play (but I'm still pretty bad though).
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+My motivation on creating this blog was first because during my internship I was part of an open source project, what made me familiar with the open source community and I still wanna contribute with it in some way (as sharing some projects and its source code to make it reproducible) and also to improve my technical writing and learning skills.
 
-## Setup
+If you guys want to contact me, I'll leave my social networks down below. Feel free to contact me in any of them.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* [Linkedin](https://www.linkedin.com/in/luigi-luz/)
+* [Twitter](https://twitter.com/luigiluz98)
+* [Github](https://github.com/luigiluz)
