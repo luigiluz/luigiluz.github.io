@@ -7,7 +7,7 @@ Since this is a technology related blog, its first post could not have different
 
 In case you wanna know a little bit more about me, my work experiencies and my hobbies in a funny (at least I've tried to be) way, feel free to check out the "[About me](https://luigiluz.github.io/about/)" page.
 
-## ~13~ Reasons why... I started this blog
+## ~~13~~ Reasons why... I started this blog
 
 The are a few reasons that made me start this blog. The first one, was that the first project that I've worked with in my software engineering internship was an open source project. There, I was able to learn about embedded software development and technical stuff, but the most important things that I've learned is that we are able to accomplish remarkable things if we work as a group. I wouldn't be where I am today if my colleagues weren't patient with me and explained stuff as how to make a good commit or to write a readable and understable code. So, this blog is here to share a little bit of my work experiences and hopefully help some people out there that are facing a similar problem to solve it in a faster way.
 
